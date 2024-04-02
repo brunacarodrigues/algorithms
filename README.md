@@ -1,10 +1,2 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Projeto do módulo de Ciência da Computação.
+Implementação de funções em Python que lidam com diferentes operações, como verificação de presença de elementos em uma lista, criptografia de mensagens, identificação de palíndromos e anagramas, análise do desempenho dessas funções com diferentes complexidades assintóticas, através de testes e análises empíricas.
